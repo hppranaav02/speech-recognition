@@ -1,0 +1,6 @@
+ASR: Facebook Wave2Vec2
+Links:
+    Meta: https://ai.meta.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/
+    HuggingFace: https://huggingface.co/facebook/wav2vec2-base-960h
+
+WER: 0.03

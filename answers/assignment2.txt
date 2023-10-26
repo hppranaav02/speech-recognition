@@ -1,0 +1,2 @@
+WER Google: 0.20
+WER Sphinx: 0.41

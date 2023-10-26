@@ -1,0 +1,15 @@
+We are using the following:
+
+For speech recognition the Google Speech API:
+https://pypi.org/project/SpeechRecognition/
+
+
+For calculating the WER:
+https://pypi.org/project/jiwer/
+
+
+virtualenv -p python3 asr
+source asr/bin/activate
+pip install SpeechRecognition
+pip install pocketsphinx
+pip install jiwer
